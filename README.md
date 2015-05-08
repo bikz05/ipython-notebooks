@@ -11,3 +11,5 @@ This repository contains code of ipython notebooks which I have written.
 ### Machine Learning
 
 1. Digit Recognition using nolearn
+2. Cross validation in `scikit-learn`
+3. Pipelining is `scikit-learn`
