@@ -7,6 +7,7 @@ This repository contains code of ipython notebooks which I have written.
 2. HSV Thresholding
 3. Adaptive Thresholding
 4. Connected Components using RGB values
+5. Template Matching
 
 ### Machine Learning
 
