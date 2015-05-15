@@ -1,0 +1,6 @@
+rock-1.jpg 0
+rock-2.jpg 0
+grass-1.jpg 1
+grass-2.jpg 1
+checkered-1.jpg 2
+checkered-2.jpg 2
