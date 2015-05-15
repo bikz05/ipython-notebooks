@@ -8,6 +8,7 @@ This repository contains code of ipython notebooks which I have written.
 3. Adaptive Thresholding
 4. Connected Components using RGB values
 5. Template Matching
+6. Texture Matching using Uniform Local Binary Patterns
 
 ### Machine Learning
 
