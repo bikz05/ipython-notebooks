@@ -15,4 +15,5 @@ This repository contains code of ipython notebooks which I have written.
 1. Digit Recognition using nolearn
 2. Cross validation in `scikit-learn`
 3. Pipelining is `scikit-learn`
-4. Linear Regression using `Theano`
+4. Linear Regression using `Theano` from scratch
+5. Logistic Regression using `Theano` from scratch
