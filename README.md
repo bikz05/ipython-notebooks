@@ -23,3 +23,5 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 3. [Pipelining is `scikit-learn`](machine-learning/sklearn-pipelining.ipynb)
 4. [Linear Regression using `Theano` from scratch](machine-learning/linear-regression-using-theano.ipynb)
 5. [Logistic Regression using `Theano` from scratch](machine-learning/logistic-regression-using-theano.ipynb)
+6. [Artifical Neutal Network from
+   scratch](machine-learning/ann-from-scratch.ipynb)
