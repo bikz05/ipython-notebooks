@@ -15,6 +15,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 (computer-vision/connected-components-using-rgb-values.ipynb)
 5. [Template Matching](computer-vision/template-matching.ipynb)
 6. [Texture Matching using Uniform Local Binary Patterns](computer-vision/local-binary-pattern.ipynb)
+7. [Displaying Video in IPython Notebook](computer-vision/displaying-video-in-ipython-notebook.ipynb)
 
 ### Machine Learning
 
