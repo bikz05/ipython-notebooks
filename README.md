@@ -17,6 +17,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 6. [Texture Matching using Uniform Local Binary Patterns](computer-vision/local-binary-pattern.ipynb)
 7. [Displaying Video in IPython Notebook](computer-vision/displaying-video-in-ipython-notebook.ipynb)
 8. [Harris Corner Detector from scratch](computer-vision/harris-corner-detector.ipynb)
+9. [Sift Descriptor from Scratch](computer-vision/sift-descriptor.ipynb)
 
 ### Machine Learning
 
