@@ -18,6 +18,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 7. [Displaying Video in IPython Notebook](computer-vision/displaying-video-in-ipython-notebook.ipynb)
 8. [Harris Corner Detector from scratch](computer-vision/harris-corner-detector.ipynb)
 9. [Sift Descriptor from Scratch](computer-vision/sift-descriptor.ipynb)
+10. [Image Blending using Gaussian Pyramids](computer-vision/image-blending.ipynb)
 
 ### Machine Learning
 
