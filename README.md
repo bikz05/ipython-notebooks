@@ -11,15 +11,15 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 1. [Face Detection](computer-vision/face-detection.ipynb)
 2. [HSV Thresholding](computer-vision/caveat-hsv-thresholding.ipynb)
 3. [Adaptive Thresholding](computer-vision/adaptive-thresholding.ipynb)
-4. [Connected Components using RGB values]
-(computer-vision/connected-components-using-rgb-values.ipynb)
+4. [Connected Components using RGB values](computer-vision/connected-components-using-rgb-values.ipynb)
 5. [Template Matching](computer-vision/template-matching.ipynb)
 6. [Texture Matching using Uniform Local Binary Patterns](computer-vision/local-binary-pattern.ipynb)
 7. [Displaying Video in IPython Notebook](computer-vision/displaying-video-in-ipython-notebook.ipynb)
 8. [Harris Corner Detector from scratch](computer-vision/harris-corner-detector.ipynb)
 9. [Sift Descriptor from Scratch](computer-vision/sift-descriptor.ipynb)
 10. [Image Blending using Gaussian Pyramids](computer-vision/image-blending.ipynb)
-11. [Creating integral images from scratch](computer-vision/integral-image.ipynb)
+11. [Box Filtering using Integral Image](computer-vision/integral-image.ipynb)
+
 ### Machine Learning
 
 1. [Digit Recognition using `nolearn`](machine-learning/digit_recognition_using_nolearn.ipynb)
