@@ -19,7 +19,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 8. [Harris Corner Detector from scratch](computer-vision/harris-corner-detector.ipynb)
 9. [Sift Descriptor from Scratch](computer-vision/sift-descriptor.ipynb)
 10. [Image Blending using Gaussian Pyramids](computer-vision/image-blending.ipynb)
-
+11. [Creating integral images from scratch](computer-vision/integral-image.ipynb)
 ### Machine Learning
 
 1. [Digit Recognition using `nolearn`](machine-learning/digit_recognition_using_nolearn.ipynb)
