@@ -30,3 +30,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 6. [Artifical Neutal Network from scratch](machine-learning/ann-from-scratch.ipynb)
 7. [Naive Bayes on MNIST dataset](machine-learning/naive-bayes-mnist-sklearn.ipynb)
 8. [Naive Bayes from scratch](machine-learning/naive-bayes-from-scratch.ipynb)
+
+## Probabilistic Robotics
+
+1. [1D Linear Kalman Filter](probabilistic-robotics/kalman-filter.ipynb)
