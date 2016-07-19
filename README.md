@@ -31,6 +31,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 7. [Naive Bayes on MNIST dataset](machine-learning/naive-bayes-mnist-sklearn.ipynb)
 8. [Naive Bayes from scratch](machine-learning/naive-bayes-from-scratch.ipynb)
 9. [Linear SVM using Gradien Descent](machine-learning/linear-svm.ipynb)
+10. [Monte Carlo Sampling](machine-learning/monte-carlo-sampling.ipynb)
 
 ## Probabilistic Robotics
 
