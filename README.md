@@ -37,3 +37,4 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 ## Probabilistic Robotics
 
 1. [1D Linear Kalman Filter](probabilistic-robotics/kalman-filter.ipynb)
+2. [Metropolis Hastings Algorithm](probabilistic-robotics/metropolis-hastings-algos.ipynb)
