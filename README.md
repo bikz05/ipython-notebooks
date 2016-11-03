@@ -19,6 +19,7 @@ NOTE - [From May 7, 2015 IPython notebooks (.ipynb) files render directly on Git
 9. [Sift Descriptor from Scratch](computer-vision/sift-descriptor.ipynb)
 10. [Image Blending using Gaussian Pyramids](computer-vision/image-blending.ipynb)
 11. [Box Filtering using Integral Image](computer-vision/integral-image.ipynb)
+12. [RANSAC](computer-vision/ransac.ipynb)
 
 ### Machine Learning
 
